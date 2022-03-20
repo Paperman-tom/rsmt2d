@@ -1,3 +1,3 @@
-module rsmt2d
+module github.com/Paperman-tom/rsmt2d
 
 go 1.17
