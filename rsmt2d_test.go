@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/celestiaorg/rsmt2d"
+	"github.com/Paperman-tom/rsmt2d"
 )
 
 func TestRSMT2D(t *testing.T) {

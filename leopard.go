@@ -5,7 +5,7 @@
 // Otherwise go-leopard won't build.
 package rsmt2d
 
-import "github.com/celestiaorg/go-leopard"
+import "github.com/Paperman-tom/goLeopard"
 
 var _ Codec = leoRSFF8Codec{}
 var _ Codec = leoRSFF16Codec{}
